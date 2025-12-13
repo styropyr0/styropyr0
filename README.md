@@ -1,1 +1,2 @@
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=styropyr0&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=styropyr0&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=styropyr0)
